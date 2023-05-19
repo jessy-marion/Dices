@@ -1,0 +1,9 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m0,0l512,0l0,512l-512,0l0,-512z"/>
+  <path id="svg_2" d="m252.184,166.777zm234.766,289.223l-461.9,0l230.95,-400l230.95,400z" fill="#fff"/>
+  <text transform="matrix(1 0 0 1 0 0)" style="cursor: text;" xml:space="preserve" text-anchor="start" font-family="'Brygada 1918'" font-size="108" stroke-width="0" id="svg_3" y="308.82775" x="221.4418" fill="#000000">4</text>
+ </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m0,0l512,0l0,512l-512,0l0,-512z"/>
+  <path stroke="null" id="svg_2" d="m256,37.143l-178.104,306.71l356.208,0l-178.104,-306.71zm-25.846,12.647l-158.154,114.443l0,157.91l158.154,-272.353zm51.69,0l158.156,272.354l0,-157.912l-158.156,-114.442zm-193.144,310.062l167.3,121.06l167.3,-121.06l-334.6,0z" fill="#fff"/>
+  <text transform="matrix(1 0 0 1 0 0)" style="cursor: text;" xml:space="preserve" text-anchor="start" font-family="'Brygada 1918'" font-size="130" stroke-width="0" id="svg_3" y="259" x="219.27344" stroke="null" fill="#000000">6</text>
+ </g>
+</svg>
