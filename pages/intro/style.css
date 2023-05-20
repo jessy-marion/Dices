@@ -9,8 +9,10 @@ body {
 }
 
 h1 {
+  color: white;
   text-align: center;
   margin: 0;
+  font-size: 120px;
 }
 
 span {
@@ -20,9 +22,35 @@ span {
 }
 
 img {
-  height: 40%;
+  height: 45%;
   margin: 10px;
   animation: swing 30s ease-in-out 1s infinite;
+}
+
+a {
+  margin: 10px;
+  font-size: 40px;
+  transition: transform 0.6s;
+}
+
+a:hover {
+  transform: scale(1.1);
+}
+
+@media screen and (max-width: 768px) {
+  h1 {
+    font-size: 55px;
+  }
+
+  img {
+    height: 40%;
+    margin: 15px;
+  }
+
+  a {
+    margin-top: 15px;
+    font-size: 28px;
+  }
 }
 
 @keyframes swing {
